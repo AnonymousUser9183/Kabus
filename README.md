@@ -47,6 +47,8 @@ The purpose of hosting the original Kabus Marketplace Script is to contribute to
 
 Kabus Marketplace Script was created by the developer Sukunetsiz and was built on PHP 8.3 and Laravel 11.
 
+Kabus Marketplace Script is now maintained by The Erebus Project & Team and runs on an upgraded Laravel 13 framework.
+
 ## Core Features
 
 ### Monero Integration
