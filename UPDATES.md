@@ -12,9 +12,9 @@ This document outlines the version history, new features, fixes, and improvement
 - The Kabus Marketplace Script is now in the care of The Erebus Development Team and is now a core part of The Erebus Project's Eco-System.
 ---
 
-### [v2.0.0] - Scheduled Release Date: 04/25/2026
+### [v2.0.0] - 2026-04-24
 #### 🚀 New Features
-- Core Framework Upgrade: The Erebus Development Team is working on upgrading the Kabus Marketplace Script to the latest version of Laravel 13, the release of Kabus 2.0 will come before the release of Erebus 2.0.
+- Core Framework Upgrade: The Erebus Development Team has completed the development of Kabus 2.0 which comes with updated framework from Laravel 11.9.0 to Laravel 13.3.0
 
 #### 🛠 Visual Changes
 - None: In remembrance of Sukunetsiz, The Erebus Development Team will be keeping the original design of Kabus, for an alternate design option please use Erebus instead.
